@@ -20,8 +20,8 @@ const Footer = () => {
           {/* Brand Column */}
           <div>
             <div className="text-3xl font-bold mb-4">
-              <span className="text-white">FRAME</span>
-              <span className="text-red-600">WORKS</span>
+              <span className="text-white">Winq</span>
+              <span className="text-red-600">Vision</span>
             </div>
             <p className="text-gray-400 mb-6 leading-relaxed">
               Creating cinematic advertisements and brand stories that captivate audiences and drive results.
@@ -158,7 +158,7 @@ const Footer = () => {
         {/* Bottom Bar */}
         <div className="border-t border-zinc-900 pt-8 flex flex-col md:flex-row justify-between items-center">
           <p className="text-gray-500 text-sm mb-4 md:mb-0">
-            © {new Date().getFullYear()} FrameWorks. All rights reserved.
+            © {new Date().getFullYear()} WinqVision. All rights reserved.
           </p>
           
           <button

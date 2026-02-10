@@ -10,7 +10,7 @@ const Testimonials = () => {
       company: 'TechVision Inc.',
       image: 'https://images.unsplash.com/photo-1581065178047-8ee15951ede6',
       rating: 5,
-      testimonial: 'Working with FrameWorks transformed our brand presence. Their creative vision and attention to detail resulted in a commercial that exceeded all our expectations. The ROI speaks for itself.'
+      testimonial: 'Working with WinqVision transformed our brand presence. Their creative vision and attention to detail resulted in a commercial that exceeded all our expectations. The ROI speaks for itself.'
     },
     {
       id: 2,

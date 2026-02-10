@@ -1,7 +1,7 @@
-# FrameWorks - Digital Advertisement Shooting Company Landing Page
+# WinqVision - Digital Advertisement Shooting Company Landing Page
 
 ## Project Overview
-**Company Name:** FrameWorks
+**Company Name:** WinqVision
 **Project Type:** Premium Landing Page for Digital Advertisement Shooting Company
 **Brand Colors:** Red (#dc2626) primary + minimal black/white/grey theme
 **Date Created:** December 10, 2025

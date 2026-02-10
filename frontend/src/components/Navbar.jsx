@@ -18,8 +18,8 @@ const Navbar = () => {
         <div className="flex items-center justify-between">
           {/* Logo */}
           <div className="text-2xl font-bold">
-            <span className="text-white">FRAME</span>
-            <span className="text-red-600">WORKS</span>
+            <span className="text-white">Winq</span>
+            <span className="text-red-600">Vision</span>
           </div>
 
           {/* Desktop Navigation */}
